@@ -290,7 +290,7 @@ footer {
   margin-top: 10rem;
   padding: 5.75rem 1.5rem 4.5rem 1.5rem;
   color: var(--clr-neutral-200);
-  background-image: url(/assets/mobile/image-footer.jpg);
+  background-image: url(assets/mobile/image-footer.jpg);
   background-position: top;
   background-size: cover;
   box-shadow: inset 0 0 0 2000px rgba(77, 150, 169, 0.8);
@@ -325,7 +325,7 @@ footer .button {
 
 @media (min-width: 37.5rem) {
   footer {
-    background-image: url(/assets/tablet/image-footer.jpg);
+    background-image: url(assets/tablet/image-footer.jpg);
   }
   footer h4 {
     margin: 0 auto;
