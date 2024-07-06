@@ -336,7 +336,7 @@ footer .button {
 
 @media (min-width: 64rem) {
   footer {
-    background-image: url(/assets/desktop/image-footer.jpg);
+    background-image: url(assets/desktop/image-footer.jpg);
     text-align: left;
     padding-bottom: 6.5rem;
   }
