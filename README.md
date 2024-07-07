@@ -8,8 +8,8 @@ This is a solution to the [Meet landing page challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Github Pages](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-grid-IoDmdt3fKC)
+- Live Site URL: [Github Pages](https://sergrosu.github.io/meet-landing-page/)
 
 ### Built with
 
